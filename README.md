@@ -6,6 +6,7 @@ npm run dev
 
 
 # 파일 구조
+
 C:\assignment
 ├── public
 │   ├── index.html
